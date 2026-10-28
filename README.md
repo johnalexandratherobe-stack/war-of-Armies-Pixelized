@@ -6,4 +6,4 @@ An pixelized War game with gachas and maps
 
 The Language select is on top left corner 
 
-Dont forget to save your account code after youcreate one!!
+
