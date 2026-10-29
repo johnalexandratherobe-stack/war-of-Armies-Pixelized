@@ -7,7 +7,7 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-#UPDATE NEWEST VERSİON 3.2.0
+# UPDATE NEWEST VERSİON 3.2.0
 
 
 -new mech charachter
