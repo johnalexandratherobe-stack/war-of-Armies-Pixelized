@@ -7,13 +7,13 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-# UPDATE NEWEST VERSİON 3.2.0
+# UPDATE NEWEST VERSİON 3.2.1
 
 
--new mech charachter
+-THE ACCOUNTS ARE NOT PERMANENT ANYMORE
 
 
--guaranteed rare/epic/legendary/mythic in ??? pulls
+-I will work on this hard and try to solve the problem but until that time if you close your chrome permanently and open it again your account will no longer be saved in it 
 
 
--more shorther codes for easily joiningto an account
+-Berks foot 1-3 Event is coming in ??? days
