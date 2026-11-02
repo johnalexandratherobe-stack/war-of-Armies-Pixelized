@@ -14,7 +14,7 @@ The Language select is on top left corner
 
 -Horde Event will come but because of the exam week it will take 1 or 2 weeks .d
 
--New raid ank and war helicopter troops will be added soon but not yet!
+-New raid tank and war helicopter troops will be added soon but not yet!
 
 
 -Berks foot 1-3 Event is coming in ??? days
