@@ -7,13 +7,14 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-# UPDATE NEWEST VERSİON 3.2.1
+# UPDATE NEWEST VERSİON 3.2.4!
 
 
--THE ACCOUNTS ARE NOT PERMANENT ANYMORE
+-The accounts are permanent!(ı fuess)
 
+-Horde Event will come but because of the exam week it will take 1 or 2 weeks .d
 
--I will work on this hard and try to solve the problem but until that time if you close your chrome permanently and open it again your account will no longer be saved in it 
+-New raid ank and war helicopter troops will be added soon but not yet!
 
 
 -Berks foot 1-3 Event is coming in ??? days
