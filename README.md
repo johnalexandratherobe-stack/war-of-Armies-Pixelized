@@ -7,16 +7,17 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-# UPDATE NEWEST VERSİON 3.2.4!
+# UPDATE NEWEST VERSİON 3.2.7!
 
 
 -The accounts are permanent!(ı guess)
 
--Horde Event will come but because of the exam week it will take 1 or 2 weeks .d
+-HORDE EVENT İS HERE!
 
--New raid tank and war helicopter troops will be added soon but not yet!
+-now players annot acces to console (:D right Ege)
 
-Now all troops have an limit for placing
+-there is 3 new limited troops you could get by defeating a boss
 
+-The new versus zombies mod is here to!
 
 -Berks foot 1-3 Event is coming in ??? days
