@@ -7,7 +7,7 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-# UPDATE NEWEST VERSİON 3.2.7!
+# UPDATE NEWEST VERSİON 3.2.8!
 
 
 -The accounts are permanent!(ı guess)
@@ -18,6 +18,9 @@ The Language select is on top left corner
 
 -there is 3 new limited troops you could get by defeating a boss
 
--The new versus zombies mod is here to!
+-New battlepass is here for 20 days!!
+
+-2 new units you could get from batle pass
+
 
 -Berks foot 1-3 Event is coming in ??? days
