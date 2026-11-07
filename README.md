@@ -16,7 +16,6 @@ The Language select is on top left corner
 
 -now players PRACTİCALLY cannot geit into console (eGe)
 
--there is 3 new limited troops you could get by defeating a boss
 
 -New 100x better gui and loading screen is here to 
 
