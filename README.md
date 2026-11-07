@@ -7,20 +7,22 @@ An pixelized War game with gachas and maps
 The Language select is on top left corner 
 
 
-# UPDATE NEWEST VERSİON 3.2.8!
+# UPDATE NEWEST VERSİON 3.3.1!
 
 
 -The accounts are permanent!(ı guess)
 
 -HORDE EVENT İS HERE!
 
--now players annot acces to console (:D right Ege)
+-now players PRACTİCALLY cannot geit into console (eGe)
 
 -there is 3 new limited troops you could get by defeating a boss
 
--New battlepass is here for 20 days!!
+-New 100x better gui and loading screen is here to 
 
--2 new units you could get from batle pass
+
+-2 Brand new maps will be added to the game soon (bout water maybe?)
+
 
 
 -Berks foot 1-3 Event is coming in ??? days
